@@ -1,3 +1,4 @@
+#DNS
 $domen = Read-Host -Prompt 'Input your server  name' 
 $records = Read-Host -Prompt 'Input type records'
 $dns_server = Read-Host -Prompt 'Input DNS Server'
